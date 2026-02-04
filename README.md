@@ -1,5 +1,10 @@
 Retail Insights & Loyalty Program Analytics
 This repository contains a comprehensive dataset and analysis of retail operations, focusing on the intersection of store performance, customer loyalty, and promotional effectiveness.
+
+
+
+
+
 main dataset-
 Row ID => Unique ID for each row.
 Order ID => Unique Order ID for each Customer.
