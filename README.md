@@ -112,6 +112,10 @@ Provide real-time business insights for decision makers.
 ### 🌍 Regional Insights
 - Store performance comparison  
 - Regional customer behavior trends  
+![WhatsApp Image 2026-02-04 at 7 20 37 PM](https://github.com/user-attachments/assets/8e5ec634-fb0e-4745-8f39-2957a23084a6)\
+![WhatsApp Image 2026-02-04 at 7 21 26 PM](https://github.com/user-attachments/assets/fb6ed701-e22c-412f-a33b-d9f8e4c40b89)
+![WhatsApp Image 2026-02-04 at 7 19 21 PM](https://github.com/user-attachments/assets/04b9ad99-072b-43ca-8234-7c5a53925a23)
+
 
 ---
 
